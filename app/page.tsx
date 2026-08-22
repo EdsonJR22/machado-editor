@@ -84,7 +84,7 @@ export default function Home() {
           <a href="#work">Work</a>
           <a href="#contact">Contact</a>
         </nav>
-        <a className="availability" href="mailto:editor.de.videos.18@gmail.com">
+        <a className="availability" href="https://wa.me/message/6SDEI4XK35X5H1" target="_blank" rel="noreferrer">
           <i /> Available for projects
         </a>
       </header>
