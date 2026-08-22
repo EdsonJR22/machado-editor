@@ -100,7 +100,11 @@ export default function Home() {
           <p className="eyebrow">Video editor · Brasília / Worldwide</p>
           <h1>
             Stories,
-            <span>cut with intent.</span>
+            <span>
+              cut with
+              <br />
+              intent.
+            </span>
           </h1>
           <p className="hero-intro">
             Turning raw footage into sharp, rhythmic and visually unforgettable

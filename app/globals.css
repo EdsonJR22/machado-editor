@@ -171,7 +171,7 @@ a,
   font-size: clamp(4.35rem, 10.7vw, 10.2rem);
   font-weight: 850;
   line-height: 0.75;
-  letter-spacing: -0.085em;
+  letter-spacing: -0.025em;
   text-transform: uppercase;
 }
 
@@ -485,7 +485,7 @@ a,
   max-width: 760px;
   font-size: clamp(3.5rem, 7.5vw, 8rem);
   line-height: 0.85;
-  letter-spacing: -0.075em;
+  letter-spacing: -0.027em;
 }
 
 .work-heading p {
@@ -608,8 +608,8 @@ a,
   margin: clamp(86px, 11vw, 160px) 0 clamp(80px, 10vw, 140px);
   font-size: clamp(4rem, 13.5vw, 13rem);
   font-weight: 900;
-  line-height: 0.69;
-  letter-spacing: -0.095em;
+  line-height: 0.75;
+  letter-spacing: -0.025em;
 }
 
 .contact-title span {
