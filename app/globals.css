@@ -18,6 +18,10 @@ html {
   background: var(--ink);
 }
 
+html.smooth-wheel-active {
+  scroll-behavior: auto;
+}
+
 body {
   margin: 0;
   overflow-x: hidden;

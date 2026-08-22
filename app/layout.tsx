@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import SmoothWheelScroll from "./smooth-wheel-scroll";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://machado-editor.com"),
@@ -31,7 +32,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="antialiased">{children}</body>
+      <body className="antialiased">
+        <SmoothWheelScroll />
+        {children}
+      </body>
     </html>
   );
 }
